@@ -58,45 +58,74 @@ Already highlighted
 
 *All the things were challenging.*
 
+<<<<<<< HEAD
 
 
 ## Fiscal Year: **2026**
+=======
+## Fiscal Year: **2025**
+>>>>>>> af0732e6eb36b19aa6372a814ed748679e107445
 
 ### Revenue \& Profitability
 
 |Metric|Value|
 |-|-|
+<<<<<<< HEAD
 |Gross order value (₹ Cr)|108|
 |Platform commission revenue (₹ Cr)|8|
 |Delivery fee revenue (₹ Cr)|16|
 |Subscription revenue — BiteDash Pro (₹ Cr)|24|
 |Total gross revenue (₹ Cr)|48|
 |Net revenue after payouts (₹ Cr)|47|
+=======
+|Gross order value (₹ Cr)|10|
+|Platform commission revenue (₹ Cr)|5|
+|Delivery fee revenue (₹ Cr)|5|
+|Subscription revenue — BiteDash Pro (₹ Cr)|10|
+|Total gross revenue (₹ Cr)|30|
+|Net revenue after payouts (₹ Cr)|20|
+>>>>>>> af0732e6eb36b19aa6372a814ed748679e107445
 
 ### Payment Mode Split
 
 |Payment Mode|% of Transactions|Avg Transaction Value|
 |-|-|-|
+<<<<<<< HEAD
 |UPI|65|5000|
 |Credit / Debit Card|15|10008|
 |Wallet (Paytm / PhonePe)|10|4052|
 |Cash on Delivery (COD)|5|852|
 |BiteDash Credits / Coupons|5|562|
+=======
+|UPI|85|8 cr|
+|Credit / Debit Card|60|5 cr|
+|Wallet (Paytm / PhonePe)|50|2.5 cr|
+|Cash on Delivery (COD)|50|2.5 cr|
+|BiteDash Credits / Coupons|25|1 cr|
+>>>>>>> af0732e6eb36b19aa6372a814ed748679e107445
 
 ### Payouts \& Settlements
 
 |Metric|Value|
 |-|-|
+<<<<<<< HEAD
 |Total restaurant payouts (₹ Cr)|85|
 |Total rider payouts (₹ Cr)|45|
 |Average settlement cycle (days)|4|
 |Payout disputes raised|45|
+=======
+|Total restaurant payouts (₹ Cr)|10|
+|Total rider payouts (₹ Cr)|5|
+|Average settlement cycle (days)|30|
+|Payout disputes raised|20|
+>>>>>>> af0732e6eb36b19aa6372a814ed748679e107445
 
 ### Refunds \& Losses
 
 |Metric|Value|
 |-|-|
 |Total refunds disbursed (₹ Cr)|5|
+<<<<<<< HEAD
 |Refund rate (% of orders)|9|
 |Fraud / policy-abuse cases detected|45|
 |Estimated fraud loss (₹ Lakhs)|99|
@@ -108,6 +137,21 @@ Already highlighted
 ### Challenges Faced
 
 *still waiting* 
+=======
+|Refund rate (% of orders)|25|
+|Fraud / policy-abuse cases detected|10|
+|Estimated fraud loss (₹ Lakhs)|50|
+
+### Key Highlights
+
+*What went well this fiscal year? Revenue milestones, cost savings, new payment integrations?
+All went fine.*
+
+### Challenges Faced
+
+*What didn't go as planned? Margin pressure, settlement delays, fraud spikes?
+No challenges faced.*
+>>>>>>> af0732e6eb36b19aa6372a814ed748679e107445
 
 \---
 
