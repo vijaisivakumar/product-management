@@ -58,10 +58,6 @@ Already highlighted
 
 *All the things were challenging.*
 
-<<<<<<< HEAD
-
-
-## Fiscal Year: **2026**
 =======
 ## Fiscal Year: **2025**
 >>>>>>> af0732e6eb36b19aa6372a814ed748679e107445
@@ -161,18 +157,6 @@ No challenges faced.*
 >>>>>>> af0732e6eb36b19aa6372a814ed748679e107445
 =======
 
-\---
-
-# Finance \& Payments Department — Business Review
-
-## About This Department
-
-The Finance \& Payments team manages BiteDash's revenue streams, payment processing,
-partner and rider payouts, refund disbursals, and financial health. Every order on the
-platform flows through this team — from the customer's UPI tap to the restaurant's
-settlement and the rider's earnings credit.
-
-\---
 
 ## Fiscal Year: **2026**
 
@@ -228,7 +212,7 @@ settlement and the rider's earnings credit.
 |Total rider payouts (₹ Cr)|5|
 |Average settlement cycle (days)|30|
 |Payout disputes raised|20|
->>>>>>> aec89fe742991b6cbec30a13d7daa2087bbb5b30
+>>>>>>>>> Temporary merge branch 2
 
 ### Refunds \& Losses
 
@@ -261,8 +245,7 @@ All went fine.*
 
 *What didn't go as planned? Margin pressure, settlement delays, fraud spikes?
 No challenges faced.*
->>>>>>> aec89fe742991b6cbec30a13d7daa2087bbb5b30
->>>>>>> d346a91522b1967cb0d7187cf92b3700ccd000a2
+>>>>>>>>> Temporary merge branch 2
 
 \---
 
