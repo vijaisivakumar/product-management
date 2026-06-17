@@ -1,136 +1,88 @@
-\# Restaurant Partnerships Department — Business Review
+# Restaurant Partnerships Department — Business Review
 
+## About This Department
 
+The Restaurant Partnerships team is the bridge between BiteDash and its restaurant partners. Their responsibilities include:
 
-\## About This Department
+- Onboarding new restaurants  
+- Managing ongoing relationships  
+- Negotiating commission structures  
+- Resolving partner grievances  
+- Ensuring restaurants remain active and satisfied  
 
+A strong partner ecosystem ensures a rich and diverse menu for customers.
 
+---
 
-The Restaurant Partnerships team is the bridge between BiteDash and its restaurant
+## Fiscal Year: **2024**
 
-partners. This team handles onboarding new restaurants, managing ongoing relationships,
+## Restaurant Portfolio
 
-negotiating commission structures, resolving partner grievances, and ensuring restaurants
+| Metric                             | Value |
+|------------------------------------|------:|
+| Total Active Restaurant Partners   | 79    |
+| New Restaurants Onboarded          | 12    |
+| Restaurants Churned                | 2     |
+| Net Growth                         | 10    |
+| Churn Rate (%)                     | 25%   |
 
-stay active and satisfied on the platform. A healthy partner ecosystem is what keeps the
+---
 
-menu full for customers.
+## Restaurant Engagement
 
+| Metric                                      | Value |
+|---------------------------------------------|------:|
+| Average Order Acceptance Rate (%)           | 90%   |
+| Average Food Preparation Time               | 20 mins |
+| Average Menu Size (Items Listed)            | 20    |
+| Restaurants Using Self-Serve Dashboard (%)  | 65%   |
 
+---
 
-\\---
+## Partner Satisfaction & Grievances
 
+| Metric                                   | Value |
+|------------------------------------------|------:|
+| Restaurant Satisfaction Score (out of 5) | 5.0   |
+| Total Grievances / Complaints            | 25    |
+| Top Grievance Category                   | Taste |
+| Average Resolution Time                  | 30 hrs |
 
+---
 
-\## Fiscal Year: \*\*2024\*\*
+## Cuisine & Category Breakdown
 
+| Cuisine / Category | Active Partners | % of Total | Order Share (%) |
+|-------------------|----------------:|-----------:|----------------:|
+| Italian           | 35              | 45%        | 50%             |
+| Chinese           | 44              | 55%        | 50%             |
 
+---
 
-\### Restaurant Portfolio
+## Partnership Tiers
 
+| Tier                     | Count | Benefits                  |
+|--------------------------|------:|---------------------------|
+| Free (Basic Listing)     | 10    | High visibility           |
+| Commission-based         | 30    | Standard platform access  |
+| Premium (Featured)       | 0     | Featured placement        |
 
+---
 
-|Metric|Value|
+## Key Highlights
 
-|-|-|
+- Strong onboarding performance with 12 new restaurants added  
+- Low absolute churn (2 restaurants) indicating decent retention  
+- Excellent partner satisfaction score (5.0/5)  
+- Growing adoption of self-serve tools (65%) improving efficiency  
 
-|Total active restaurant partners|79|
+---
 
-|New restaurants onboarded|12|
+## Challenges Faced
 
-|Restaurants churned (left platform)|2|
+- Sales department performance needs improvement  
+- High churn observed in specific segments  
+- Onboarding process may have inefficiencies  
+- Taste-related issues are the top category of complaints  
 
-|Net growth|90|
-
-|Churn rate (%)|25|
-
-
-
-\### Restaurant Engagement
-
-
-
-|Metric|Value|
-
-|-|-|
-
-|Average order acceptance rate (%)|90|
-
-|Average food preparation time|20|
-
-|Average menu size (items listed)|20|
-
-|Restaurants using self-serve dashboard (%)|65|
-
-
-
-\### Partner Satisfaction \\\& Grievances
-
-
-
-|Metric|Value|
-
-|-|-|
-
-|Restaurant satisfaction score (out of 5)|5|
-
-|Total grievances / complaints raised|25|
-
-|Top grievance category|Taste|
-
-|Average grievance resolution time|30|
-
-
-
-\### Cuisine \\\& Category Breakdown
-
-
-
-|Cuisine / Category|Active Partners|% of Total|Order Share (%)|
-
-|-|-|-|-|
-
-|Italian|Toyota|45|50|
-
-|Chinese|Shusi|65|50|
-
-
-
-\### Partnership Tiers
-
-
-
-|Tier|Count|Benefits|
-
-|-|-|-|
-
-|Free (basic listing)|10|High|
-
-|Commission-based|30|No|
-
-|Premium (featured)|0|No|
-
-
-
-\### Key Highlights
-
-
-
-\*What went well this fiscal year? New partnerships, retention wins, platform improvements?\*
-
-
-
-\### Challenges Face: Sales dept is not good
-
-
-
-\*What didn't go as planned? High churn segments, onboarding bottlenecks, partner dissatisfaction?\*
-
-
-
-\\---   high churn segments
-
-
-
-
-
+---
