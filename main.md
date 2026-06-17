@@ -7,41 +7,45 @@ The platform connects customers, restaurant partners, and delivery riders throug
 mobile app and web dashboard. This document consolidates each department's business
 review into a single CRM report.
 
-## Finance & Payments
+## Finance \& Payments
 
 ### Overview
 
-_Briefly describe how Finance & Payments works at Swiggy — revenue streams,
-payment processing, payouts to partners and riders._
+*Briefly describe how Finance \& Payments works at Swiggy — revenue streams,
+payment processing, payouts to partners and riders.*
 
 ### Key Metrics Summary
 
-| Metric                                | Value | Trend (↑ / ↓ / →) |
-| ------------------------------------- | ----- | ----------------- |
-| Gross revenue (₹ Cr)                  |       |                   |
-| Net revenue after payouts (₹ Cr)      |       |                   |
-| Average transaction value             |       |                   |
-| Refund rate (% of transactions)       |       |                   |
-| Payment mode split (UPI / Card / COD) |       |                   |
+|Metric|Value|Trend (↑ / ↓ / →)|
+|-|-|-|
+|Gross revenue (₹ Cr)|300|↑|
+|Net revenue after payouts (₹ Cr)|200|↑|
+|Average transaction value|150|↓|
+|Refund rate (% of transactions)|20|↓|
+|Payment mode split (UPI / Card / COD)|UPI||
 
 ### Top Achievements
 
-1.
-2.
-3.
+1. the net profit have improved 
+2. The rate of refund was decreased
+3. The payment mode have transformed from COD to UPI
+
 
 ### Key Challenges
 
-1.
-2.
-3.
+1. Its difficult to handle more UPI payments
+2. The average transaction value was lower than the market
+3. More transportation issues faced
 
-### Outlook & Next Steps
+### Outlook \& Next Steps
 
-_What should Finance focus on next? Cost optimisation, new payment methods, margins?_
+*What should Finance focus on next? Cost optimisation, new payment methods, margins?*
 
----
+*WE have to work on cost optimisation.*
+
+\---
 
 ## Linked Reports
 
-- [Finance & Payments Report → finance.md](finance.md)
+* [Finance \& Payments Report → finance.md](finance.md)
+
