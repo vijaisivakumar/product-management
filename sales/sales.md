@@ -18,7 +18,7 @@ the sales pipeline, and driving revenue targets across city tiers.
 
 
 
-\## Fiscal Year: \*\*\\\_\\\_\\\_\\\_\*\*
+\## Fiscal Year: \*\*2024\*\*
 
 
 
@@ -30,13 +30,13 @@ the sales pipeline, and driving revenue targets across city tiers.
 
 | ---------------------------------------------- | ----- |
 
-| Total new restaurants onboarded                |       |
+| Total new restaurants onboarded                | 4      |
 
-| Tier-1 cities (Bangalore, Mumbai, Delhi, etc.) |       |
+| Tier-1 cities (Bangalore, Mumbai, Delhi, etc.) |     6  |
 
-| Tier-2 cities (Jaipur, Kochi, Lucknow, etc.)   |       |
+| Tier-2 cities (Jaipur, Kochi, Lucknow, etc.)   |     7  |
 
-| Tier-3 / new cities                            |       |
+| Tier-3 / new cities                            |    8   |
 
 
 
@@ -48,11 +48,11 @@ the sales pipeline, and driving revenue targets across city tiers.
 
 | ------------------------------------ | ----- |
 
-| Number of chain deals closed         |       |
+| Number of chain deals closed         |7       |
 
-| Names of top chain partners signed   |       |
+| Names of top chain partners signed   |8       |
 
-| Committed revenue from chains (₹ Cr) |       |
+| Committed revenue from chains (₹ Cr) |9       |
 
 
 
@@ -64,13 +64,13 @@ the sales pipeline, and driving revenue targets across city tiers.
 
 | -------------------------------------------- | ----- |
 
-| Total leads in pipeline                      |       |
+| Total leads in pipeline                      |9       |
 
-| Conversion rate (%)                          |       |
+| Conversion rate (%)                          |9       |
 
-| Average days to close a deal                 |       |
+| Average days to close a deal                 |9       |
 
-| Top lead source (field / inbound / referral) |       |
+| Top lead source (field / inbound / referral) |9       |
 
 
 
@@ -82,13 +82,13 @@ the sales pipeline, and driving revenue targets across city tiers.
 
 | ------------------------------ | ----- |
 
-| Total sales revenue (₹ Cr)     |       |
+| Total sales revenue (₹ Cr)     | 8      |
 
-| Revenue from new restaurants   |       |
+| Revenue from new restaurants   | 9      |
 
-| Revenue from existing accounts |       |
+| Revenue from existing accounts | 8      |
 
-| Target attainment (%)          |       |
+| Target attainment (%)          | 9      |
 
 
 
@@ -96,7 +96,7 @@ the sales pipeline, and driving revenue targets across city tiers.
 
 
 
-\_What went well this fiscal year? Any standout deals, milestones, or wins?\_
+\_What went well this fiscal year? Any standout deals, milestones, or wins?\_ It was boring
 
 
 
@@ -106,7 +106,7 @@ the sales pipeline, and driving revenue targets across city tiers.
 
 \_What didn't go as planned? What slowed things down?\_
 
-
+I slept
 
 \---
 
