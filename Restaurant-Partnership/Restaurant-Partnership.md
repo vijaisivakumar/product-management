@@ -1,136 +1,68 @@
-\# Restaurant Partnerships Department — Business Review
+# Restaurant Partnerships Department — Business Review
 
-
-
-\## About This Department
-
-
+## About This Department
 
 The Restaurant Partnerships team is the bridge between BiteDash and its restaurant
-
 partners. This team handles onboarding new restaurants, managing ongoing relationships,
-
 negotiating commission structures, resolving partner grievances, and ensuring restaurants
-
 stay active and satisfied on the platform. A healthy partner ecosystem is what keeps the
-
 menu full for customers.
 
+\---
 
+## Fiscal Year: **2025**
 
-\\---
-
-
-
-\## Fiscal Year: \*\*2024\*\*
-
-
-
-\### Restaurant Portfolio
-
-
+### Restaurant Portfolio
 
 |Metric|Value|
-
 |-|-|
-
-|Total active restaurant partners|79|
-
+|Total active restaurant partners|89|
 |New restaurants onboarded|12|
-
 |Restaurants churned (left platform)|2|
-
 |Net growth|90|
-
 |Churn rate (%)|25|
 
-
-
-\### Restaurant Engagement
-
-
+### Restaurant Engagement
 
 |Metric|Value|
-
 |-|-|
+|Average order acceptance rate (%)|95|
+|Average food preparation time|45|
+|Average menu size (items listed)|15|
+|Restaurants using self-serve dashboard (%)|60|
 
-|Average order acceptance rate (%)|90|
-
-|Average food preparation time|20|
-
-|Average menu size (items listed)|20|
-
-|Restaurants using self-serve dashboard (%)|65|
-
-
-
-\### Partner Satisfaction \\\& Grievances
-
-
+### Partner Satisfaction \& Grievances
 
 |Metric|Value|
-
 |-|-|
-
 |Restaurant satisfaction score (out of 5)|5|
-
-|Total grievances / complaints raised|25|
-
+|Total grievances / complaints raised|28|
 |Top grievance category|Taste|
-
 |Average grievance resolution time|30|
 
-
-
-\### Cuisine \\\& Category Breakdown
-
-
+### Cuisine \& Category Breakdown
 
 |Cuisine / Category|Active Partners|% of Total|Order Share (%)|
-
 |-|-|-|-|
+|Italian|Toyota|50|50|
+|Chinese|Madhan|60|50|
 
-|Italian|Toyota|45|50|
-
-|Chinese|Shusi|65|50|
-
-
-
-\### Partnership Tiers
-
-
+### Partnership Tiers
 
 |Tier|Count|Benefits|
-
 |-|-|-|
-
-|Free (basic listing)|10|High|
-
+|Free (basic listing)|15|High|
 |Commission-based|30|No|
-
 |Premium (featured)|0|No|
 
+### Key Highlights
 
+*What went well this fiscal year? New partnerships, retention wins, platform improvements?*
+High Average order acceptance rate 
 
-\### Key Highlights
+### Challenges Face: Sales dept is not good
 
+*What didn't go as planned? High churn segments, onboarding bottlenecks, partner dissatisfaction?*
 
-
-\*What went well this fiscal year? New partnerships, retention wins, platform improvements?\*
-
-
-
-\### Challenges Face: Sales dept is not good
-
-
-
-\*What didn't go as planned? High churn segments, onboarding bottlenecks, partner dissatisfaction?\*
-
-
-
-\\---   high churn segments
-
-
-
-
+high churn segments
 
