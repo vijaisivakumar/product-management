@@ -1,80 +1,89 @@
-Restaurant Partnerships Department — Business Review
+# Restaurant Partnerships Department — Business Review
 
-About This Department
+## About This Department
 
-The Restaurant Partnerships team is the bridge between BiteDash and its restaurant partners. This team handles onboarding new restaurants, managing ongoing relationships, negotiating commission structures, resolving partner grievances, and ensuring restaurants stay active and satisfied on the platform. A healthy partner ecosystem is what keeps the menu full for customers.
+The Restaurant Partnerships team is the bridge between BiteDash and its restaurant partners. This team handles:
 
+* Onboarding new restaurants
+* Managing ongoing relationships
+* Negotiating commission structures
+* Resolving partner grievances
+* Ensuring restaurants stay active and satisfied on the platform
 
+A healthy partner ecosystem is what keeps the menu full for customers.
 
-Fiscal Year: 2023
+\---
 
-Restaurant Portfolio
+## Fiscal Year: **2023**
 
-Metric	Value
+## Restaurant Portfolio
 
-Total active restaurant partners	69
+|Metric|Value|
+|-|-:|
+|Total Active Restaurant Partners|69|
+|New Restaurants Onboarded|12|
+|Restaurants Churned|2|
+|Net Growth|10|
+|Churn Rate (%)|25%|
 
-New restaurants onboarded	12
+\---
 
-Restaurants churned (left platform)	2
+## Restaurant Engagement
 
-Net growth	90
+|Metric|Value|
+|-|-:|
+|Average Order Acceptance Rate (%)|95%|
+|Average Food Preparation Time|45 mins|
+|Average Menu Size (Items Listed)|15|
+|Restaurants Using Self-Serve Dashboard (%)|60%|
 
-Churn rate (%)	25
+\---
 
-Restaurant Engagement
+## Partner Satisfaction \& Grievances
 
-Metric	Value
+|Metric|Value|
+|-|-:|
+|Restaurant Satisfaction Score (out of 5)|5.0|
+|Total Grievances / Complaints|28|
+|Top Grievance Category|Taste|
+|Average Resolution Time|30 hrs|
 
-Average order acceptance rate (%)	95
+\---
 
-Average food preparation time	45
+## Cuisine \& Category Breakdown
 
-Average menu size (items listed)	15
+|Cuisine / Category|Active Partners|% of Total|Order Share (%)|
+|-|-:|-:|-:|
+|Italian|31|45%|50%|
+|Chinese|38|55%|50%|
 
-Restaurants using self-serve dashboard (%)	60
+\---
 
-Partner Satisfaction \& Grievances
+## Partnership Tiers
 
-Metric	Value
+|Tier|Count|Benefits|
+|-|-:|-|
+|Free (Basic Listing)|15|High visibility|
+|Commission-based|30|Standard platform access|
+|Premium (Featured)|0|Featured placement|
 
-Restaurant satisfaction score (out of 5)	5
+\---
 
-Total grievances / complaints raised	28
+## Key Highlights
 
-Top grievance category	Taste
+* Strong onboarding performance with 12 new restaurants added
+* High order acceptance rate (95%) indicating operational efficiency
+* Excellent partner satisfaction score (5.0/5)
+* Increased adoption of self-serve dashboard (60%)
 
-Average grievance resolution time	30
+\---
 
-Cuisine \& Category Breakdown
+## Challenges Faced
 
-Cuisine / Category	Active Partners	% of Total	Order Share (%)
+* Sales department performance needs improvement
+* High churn observed in certain segments
+* Onboarding inefficiencies affecting partner experience
+* Taste-related issues are the top category of complaints
 
-Italian	Toyota	45	50
-
-Chinese	Madhan	65	50
-
-Partnership Tiers
-
-Tier	Count	Benefits
-
-Free (basic listing)	15	High
-
-Commission-based	30	No
-
-Premium (featured)	0	No
-
-Key Highlights
-
-What went well this fiscal year? New partnerships, retention wins, platform improvements?
-
-
-
-Challenges Face: Sales dept is not good
-
-What didn't go as planned? High churn segments, onboarding bottlenecks, partner dissatisfaction?
-
-
-
-\--- high churn segments
+\---
 
