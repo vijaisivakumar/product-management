@@ -66,6 +66,7 @@ High Average order acceptance rate
 
 high churn segments
 
+<<<<<<< HEAD
 ## About This Department
 
 The Restaurant Partnerships team is the bridge between BiteDash and its restaurant partners. Their responsibilities include:
@@ -237,3 +238,5 @@ A healthy partner ecosystem is what keeps the menu full for customers.
 
 \---
 
+=======
+>>>>>>> c4e0797503368ace1fb4bc26d360c58ef55d2ef7
