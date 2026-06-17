@@ -1,56 +1,31 @@
-# Sales Department — Business Review
+## sales of year 2026
+## Fiscal Year: 2026
 
-## About This Department
+### User Acquisition & App Growth
 
-The Sales team at BiteDash is responsible for growing the restaurant supply side of the
-platform — acquiring new restaurant partners, closing enterprise and chain deals, managing
-the sales pipeline, and driving revenue targets across city tiers.
+| Metric                                | Value |
+| ------------------------------------- | ----- |
+| Total app installs                    |1000   |
+| Organic installs                      |500    |
+| Paid installs (Google / Meta / other) |100    |
+| Monthly active users (MAU)            |750    |
+| Cost per install (CPI)                |1500   |
+| Customer acquisition cost (CAC)       |1000   |
 
----
+### Campaign Performance
 
-## Fiscal Year: **\_\_\_\_**
+| Campaign Name | Spend (₹ Lakhs) | Reach | Conversions | ROI |
+| ------------- | --------------- | ----- | ----------- | --- |
+|soliton        |50               |1000   |1500         |20L  |
+|	        |                 |       |             |     |
+|               |                 |       |             |     |
 
-### Restaurant Onboarding
+_Which campaign performed best? Which underperformed? Why?_
 
-| Metric                                         | Value |
-| ---------------------------------------------- | ----- |
-| Total new restaurants onboarded                |       |
-| Tier-1 cities (Bangalore, Mumbai, Delhi, etc.) |       |
-| Tier-2 cities (Jaipur, Kochi, Lucknow, etc.)   |       |
-| Tier-3 / new cities                            |       |
+### Brand & Social Media
 
-### Enterprise & Chain Partnerships
-
-| Metric                               | Value |
-| ------------------------------------ | ----- |
-| Number of chain deals closed         |       |
-| Names of top chain partners signed   |       |
-| Committed revenue from chains (₹ Cr) |       |
-
-### Pipeline & Conversion
-
-| Metric                                       | Value |
-| -------------------------------------------- | ----- |
-| Total leads in pipeline                      |       |
-| Conversion rate (%)                          |       |
-| Average days to close a deal                 |       |
-| Top lead source (field / inbound / referral) |       |
-
-### Revenue
-
-| Metric                         | Value |
-| ------------------------------ | ----- |
-| Total sales revenue (₹ Cr)     |       |
-| Revenue from new restaurants   |       |
-| Revenue from existing accounts |       |
-| Target attainment (%)          |       |
-
-### Key Highlights
-
-_What went well this fiscal year? Any standout deals, milestones, or wins?_
-
-### Challenges Faced
-
-_What didn't go as planned? What slowed things down?_
-
----
+| Platform  | Followers | Engagement Rate | Growth (%) |
+| --------- | --------- | --------------- | ---------- |
+| Instagram |10k        |95               |25          |
+| Twitter/X |15k        |80               |50          |
+| YouTube   |20k        |96               |70          |
