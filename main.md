@@ -18,23 +18,23 @@ brand building, campaigns, partnerships.*
 
 |Metric|Value|Trend (↑ / ↓ / →)|
 |-|-|-|
-|Total app installs|||
-|Monthly active users (MAU)|||
-|Customer acquisition cost (CAC)|||
-|Campaign ROI (overall)|||
-|Social media followers (total)|||
+|Total app installs|1000000||
+|Monthly active users (MAU)|200000||
+|Customer acquisition cost (CAC)|450000||
+|Campaign ROI (overall)|456987||
+|Social media followers (total)|100000000||
 
 ### Top Achievements
 
-1. 
-2. 
+1. Overtook Zomato
+2. 90 percent market share
 3. 
 
 ### Key Challenges
 
-1. 
-2. 
-3. 
+1. Zomato
+2. fast delivery
+3. wastage
 
 ### Outlook \& Next Steps
 
@@ -45,6 +45,4 @@ brand building, campaigns, partnerships.*
 ## Linked Reports
 
 * [Marketing Report → marketing.md](marketing.md)
-
-
 
