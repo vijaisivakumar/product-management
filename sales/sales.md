@@ -1,4 +1,4 @@
-\# Marketing Department — Business Review
+\# Sales Department — Business Review
 
 
 
@@ -6,15 +6,107 @@
 
 
 
-The Marketing team at BiteDash drives user acquisition, brand awareness, and engagement.
+The Sales team at BiteDash is responsible for growing the restaurant supply side of the
 
-This includes running campaigns (digital, outdoor, influencer), managing social media
+platform — acquiring new restaurant partners, closing enterprise and chain deals, managing
 
-presence, optimising app store performance, and forming co-marketing partnerships with
-
-consumer brands.
+the sales pipeline, and driving revenue targets across city tiers.
 
 
+
+\---
+
+
+
+\## Fiscal Year: \*\*2024\*\*
+
+
+
+\### Restaurant Onboarding
+
+
+
+| Metric                                         | Value |
+
+| ---------------------------------------------- | ----- |
+
+| Total new restaurants onboarded                | 4      |
+
+| Tier-1 cities (Bangalore, Mumbai, Delhi, etc.) |     6  |
+
+| Tier-2 cities (Jaipur, Kochi, Lucknow, etc.)   |     7  |
+
+| Tier-3 / new cities                            |    8   |
+
+
+
+\### Enterprise \& Chain Partnerships
+
+
+
+| Metric                               | Value |
+
+| ------------------------------------ | ----- |
+
+| Number of chain deals closed         |7       |
+
+| Names of top chain partners signed   |8       |
+
+| Committed revenue from chains (₹ Cr) |9       |
+
+
+
+\### Pipeline \& Conversion
+
+
+
+| Metric                                       | Value |
+
+| -------------------------------------------- | ----- |
+
+| Total leads in pipeline                      |9       |
+
+| Conversion rate (%)                          |9       |
+
+| Average days to close a deal                 |9       |
+
+| Top lead source (field / inbound / referral) |9       |
+
+
+
+\### Revenue
+
+
+
+| Metric                         | Value |
+
+| ------------------------------ | ----- |
+
+| Total sales revenue (₹ Cr)     | 8      |
+
+| Revenue from new restaurants   | 9      |
+
+| Revenue from existing accounts | 8      |
+
+| Target attainment (%)          | 9      |
+
+
+
+\### Key Highlights
+
+
+
+\_What went well this fiscal year? Any standout deals, milestones, or wins?\_ It was boring
+
+
+
+\### Challenges Faced
+
+
+
+\_What didn't go as planned? What slowed things down?\_
+
+I slept
 
 \---
 
@@ -120,3 +212,34 @@ consumer brands.
 
 
 
+## sales of year 2026
+## Fiscal Year: 2026
+
+### User Acquisition & App Growth
+
+| Metric                                | Value |
+| ------------------------------------- | ----- |
+| Total app installs                    |1000   |
+| Organic installs                      |500    |
+| Paid installs (Google / Meta / other) |100    |
+| Monthly active users (MAU)            |750    |
+| Cost per install (CPI)                |1500   |
+| Customer acquisition cost (CAC)       |1000   |
+
+### Campaign Performance
+
+| Campaign Name | Spend (₹ Lakhs) | Reach | Conversions | ROI |
+| ------------- | --------------- | ----- | ----------- | --- |
+|soliton        |50               |1000   |1500         |20L  |
+|	        |                 |       |             |     |
+|               |                 |       |             |     |
+
+_Which campaign performed best? Which underperformed? Why?_
+
+### Brand & Social Media
+
+| Platform  | Followers | Engagement Rate | Growth (%) |
+| --------- | --------- | --------------- | ---------- |
+| Instagram |10k        |95               |25          |
+| Twitter/X |15k        |80               |50          |
+| YouTube   |20k        |96               |70          |
