@@ -1,4 +1,4 @@
-# Swiggy — CRM Business Review
+# wiggy — CRM Business Review
 
 ## Company Overview
 
@@ -18,34 +18,31 @@ onboarding, engagement, retention, partnership tiers.*
 
 |Metric|Value|Trend (↑ / ↓ / →)|
 |-|-|-|
-|Total active restaurant partners|||
-|New restaurants onboarded|||
-|Restaurant churn rate|||
-|Average order acceptance rate|||
-|Restaurant satisfaction score|||
+|Total active restaurant partners|89|↑|
+|New restaurants onboarded|41|↑|
+|Restaurant churn rate|11|↑|
+|Average order acceptance rate|95|↑|
+|Restaurant satisfaction score|5|→|
 
 ### Top Achievements
 
-1. 
-2. 
-
-3\.
+1. Many new restaurant onboarding
+2. Perfect satisfaction score
+3. minimum churn rate
 
 ### Key Challenges
 
-1. 
-2. 
-3. 
+1. To maintain satisfaction score
+2. Delivery time
+3. Less man power
 
 ### Outlook \& Next Steps
 
 *What should Partnerships focus on next? Retention, premium tiers, new cuisines?*
 
-\---
+\---High retention rate of customers, zero churn rate, establish premium tier customer
 
 ## Linked Reports
 
-* [Restaurant Partnerships Report → partnerships.md](partnerships.md)
-
-
+## [Restaurant Partnerships Report → partnerships.md](partnerships.md)
 
