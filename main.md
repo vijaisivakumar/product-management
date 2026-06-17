@@ -1,4 +1,4 @@
-# wiggy — CRM Business Review
+# Swiggy — CRM Business Review
 
 ## Company Overview
 
