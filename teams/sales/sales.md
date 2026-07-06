@@ -8,39 +8,39 @@ the sales pipeline, and driving revenue targets across city tiers.
 
 ---
 
-## Financial Year: **\_\_\_\_**
+## Financial Year: **2022-2023**
 
 ### Restaurant Onboarding
 
 | Metric                                         | Value |
 | ---------------------------------------------- | ----- |
-| Total new restaurants onboarded                |       |
-| Tier-1 cities (Bangalore, Mumbai, Delhi, etc.) |       |
-| Tier-2 cities (Jaipur, Kochi, Lucknow, etc.)   |       |
-| Tier-3 / new cities                            |       |
+| Total new restaurants onboarded                |    12 |
+| Tier-1 cities (Bangalore, Mumbai, Delhi, etc.) |     3 |
+| Tier-2 cities (Jaipur, Kochi, Lucknow, etc.)   |    14 |
+| Tier-3 / new cities                            |    15 |
 
 ### Enterprise & Chain Partnerships
 
 | Metric                               | Value |
 | ------------------------------------ | ----- |
-| Number of chain deals closed         |       |
-| Names of top chain partners signed   |       |
-| Committed revenue from chains (₹ Cr) |       |
+| Number of chain deals closed         |     5 |
+| Names of top chain partners signed   |     6 |
+| Committed revenue from chains (₹ Cr) |     7 |
 
 ### Pipeline & Conversion
 
 | Metric                                       | Value |
 | -------------------------------------------- | ----- |
-| Total leads in pipeline                      |       |
-| Conversion rate (%)                          |       |
-| Average days to close a deal                 |       |
-| Top lead source (field / inbound / referral) |       |
+| Total leads in pipeline                      |     8 |
+| Conversion rate (%)                          |   23% |
+| Average days to close a deal                 |     2 |
+| Top lead source (field / inbound / referral) | field |
 
 ### Revenue
 
 | Metric                         | Value |
 | ------------------------------ | ----- |
-| Total sales revenue (₹ Cr)     |       |
-| Revenue from new restaurants   |       |
-| Revenue from existing accounts |       |
-| Target attainment (%)          |       |
+| Total sales revenue (₹ Cr)     |     2 |
+| Revenue from new restaurants   |   1.4 |
+| Revenue from existing accounts |   0.6 |
+| Target attainment (%)          |  100% |
