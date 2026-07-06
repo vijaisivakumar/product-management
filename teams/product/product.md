@@ -10,13 +10,55 @@ by the decisions this team makes.
 
 ---
 
+## Financial Year: **2021-2022**
+
+### Product Development & Releases
+
+| Metric                                  | Value |
+| --------------------------------------- | ----- |
+| Major features shipped                  |   abc    |
+| App releases (iOS / Android)            |     def  |
+| Bugs resolved                           |  ghi     |
+| Average release cycle (days)            |    jkl   |
+| Roadmap items completed vs. planned (%) |    mno   |
+
+### App Performance & Reliability
+
+| Metric                              | Value |
+| ----------------------------------- | ----- |
+| App crash-free session rate (%)     |  abc     |
+| Average app load / launch time      |  def     |
+| Uptime / availability (%)           |   ghi    |
+| Average API response time (ms)      |    jkl   |
+| App store rating (iOS / Android)    |    mno   |
+
+### User Engagement & Adoption
+
+| Feature | Adoption Rate (%) | Impact on Orders / Retention |
+| ------- | ----------------- | ---------------------------- |
+|   xxx      |   xxxxx                |          xxx                    |
+|      yyy   |     yyy              |                  yyyy            |
+|      zzzz   |         zzzz         |                zzzz              |
+
+_Which new feature drove the most engagement this year? Which underperformed? Why?_
+
+### Experimentation & Roadmap
+
+| Metric                                   | Value |
+| ---------------------------------------- | ----- |
+| A/B experiments run                      | aaa      |
+| Experiments that shipped to production   |   bbb    |
+| Average conversion uplift from wins (%)  |    xxx   |
+| Top experiment by business impact        |  ccc     |
+| Key roadmap theme for next year          |    ddd   |
+
+
 ## Financial Year: 2022 - 23
 
 ### Product Development & Releases
 
 | Metric                                  | Value |
 | --------------------------------------- | ----- |
-
 | Major features shipped                  |    1500   |
 | App releases (iOS / Android)            |   iOs    |
 | Bugs resolved                           |   406    |
@@ -28,7 +70,6 @@ by the decisions this team makes.
 
 | Metric                              | Value |
 | ----------------------------------- | ----- |
-
 | App crash-free session rate (%)     |   97.1    |
 | Average app load / launch time      |    52ms   |
 | Uptime / availability (%)           |   Yes    |
@@ -40,7 +81,6 @@ by the decisions this team makes.
 
 | Feature | Adoption Rate (%) | Impact on Orders / Retention |
 | ------- | ----------------- | ---------------------------- |
-
 |    XYZ     |      84             |             19                 |
 |    ABC     |      74             |             40                 |
 |    DEF     |      89             |             58                 |
@@ -58,9 +98,3 @@ _Which new feature drove the most engagement this year? Which underperformed? Wh
 | Top experiment by business impact        |    46   |
 | Key roadmap theme for next year          |    46   |
 
-
-| A/B experiments run                      |   bcgf    |
-| Experiments that shipped to production   |   cvxc    |
-| Average conversion uplift from wins (%)  |   vxfg    |
-| Top experiment by business impact        |   xvdx    |
-| Key roadmap theme for next year          |   dzfd    |
