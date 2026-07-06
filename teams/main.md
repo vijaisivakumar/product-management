@@ -19,10 +19,10 @@ brand building, campaigns, partnerships._
 | Metric                          | Value | Trend (↑ / ↓ / →) |
 | ------------------------------- | ----- | ----------------- |
 | Total app installs              |  1.2M |         ↑         |
-| Monthly active users (MAU)      |       |         ↑         |
-| Customer acquisition cost (CAC) |       |         ↑         |
-| Campaign ROI (overall)          |       |         ↓         |
-| Social media followers (total)  |       |         ↑         |
+| Monthly active users (MAU)      |  1M   |         ↑         |
+| Customer acquisition cost (CAC) |  150  |         ↑         |
+| Campaign ROI (overall)          |  234  |         ↓         |
+| Social media followers (total)  |   1M  |         ↑         |
 
 ### Top Achievements
 
