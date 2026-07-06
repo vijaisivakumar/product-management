@@ -8,39 +8,77 @@ the sales pipeline, and driving revenue targets across city tiers.
 
 ---
 
-## Financial Year: **\_\_\_\_**
+## Financial Year: **2021-2022**
 
 ### Restaurant Onboarding
 
 | Metric                                         | Value |
 | ---------------------------------------------- | ----- |
-| Total new restaurants onboarded                |       |
-| Tier-1 cities (Bangalore, Mumbai, Delhi, etc.) |       |
-| Tier-2 cities (Jaipur, Kochi, Lucknow, etc.)   |       |
-| Tier-3 / new cities                            |       |
+| Total new restaurants onboarded                | 19 |
+| Tier-1 cities (Bangalore, Mumbai, Delhi, etc.) | 5 |
+| Tier-2 cities (Jaipur, Kochi, Lucknow, etc.)   | 9 |
+| Tier-3 / new cities                            | 5 |
 
 ### Enterprise & Chain Partnerships
 
 | Metric                               | Value |
 | ------------------------------------ | ----- |
-| Number of chain deals closed         |       |
-| Names of top chain partners signed   |       |
-| Committed revenue from chains (₹ Cr) |       |
+| Number of chain deals closed         | 3 |
+| Names of top chain partners signed   | 6 |
+| Committed revenue from chains (₹ Cr) | 5 |
 
 ### Pipeline & Conversion
 
 | Metric                                       | Value |
 | -------------------------------------------- | ----- |
-| Total leads in pipeline                      |       |
-| Conversion rate (%)                          |       |
-| Average days to close a deal                 |       |
-| Top lead source (field / inbound / referral) |       |
+| Total leads in pipeline                      | 4 |
+| Conversion rate (%)                          | 9% |
+| Average days to close a deal                 | 9 |
+| Top lead source (field / inbound / referral) | 1 |
 
 ### Revenue
 
 | Metric                         | Value |
 | ------------------------------ | ----- |
-| Total sales revenue (₹ Cr)     |       |
-| Revenue from new restaurants   |       |
-| Revenue from existing accounts |       |
-| Target attainment (%)          |       |
+| Total sales revenue (₹ Cr)     | 9 |
+| Revenue from new restaurants   | 3 |
+| Revenue from existing accounts | 5 |
+| Target attainment (%)          | 3 |
+
+---
+## Financial Year: **2024-2025**
+
+### Restaurant Onboarding
+
+| Metric                                         | Value |
+| ---------------------------------------------- | ----- |
+| Total new restaurants onboarded                | 54 |
+| Tier-1 cities (Bangalore, Mumbai, Delhi, etc.) | 23 |
+| Tier-2 cities (Jaipur, Kochi, Lucknow, etc.)   | 13 |
+| Tier-3 / new cities                            | 18 |
+
+### Enterprise & Chain Partnerships
+
+| Metric                               | Value |
+| ------------------------------------ | ----- |
+| Number of chain deals closed         | 15 |
+| Names of top chain partners signed   | Copper kitchen |
+| Committed revenue from chains (₹ Cr) | 78 |
+
+### Pipeline & Conversion
+
+| Metric                                       | Value |
+| -------------------------------------------- | ----- |
+| Total leads in pipeline                      | 32 |
+| Conversion rate (%)                          | 67 |
+| Average days to close a deal                 | 4 |
+| Top lead source (field / inbound / referral) | field |
+
+### Revenue
+
+| Metric                         | Value |
+| ------------------------------ | ----- |
+| Total sales revenue (₹ Cr)     | 214 |
+| Revenue from new restaurants   | 32 |
+| Revenue from existing accounts | 67 |
+| Target attainment (%)          | 56 |
