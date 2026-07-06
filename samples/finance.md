@@ -18,7 +18,7 @@ settlement and the rider's earnings credit.
 | Gross order value (₹ Cr)                   |       |
 | Platform commission revenue (₹ Cr)         |       |
 | Delivery fee revenue (₹ Cr)                |       |
-| Subscription revenue — Swiggy Pro (₹ Cr) |       |
+| Subscription revenue — Swiggy Pro (₹ Cr)   |       |
 | Total gross revenue (₹ Cr)                 |       |
 | Net revenue after payouts (₹ Cr)           |       |
 
