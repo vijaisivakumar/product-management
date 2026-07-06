@@ -10,10 +10,58 @@ menu full for customers.
 
 ---
 
-## Financial Year: 2024-2025
+
+## Financial Year: 2021-22
+
 
 ### Restaurant Portfolio
 
+| Metric                              | Value |
+| ----------------------------------- | ----- |
+| Total active restaurant partners    | 1     |
+| New restaurants onboarded           | 2     |
+| Restaurants churned (left platform) | 3     |
+| Net growth                          | 4     |
+| Churn rate (%)                      | 5     |
+
+### Restaurant Engagement
+
+| Metric                                     | Value |
+| ------------------------------------------ | ----- |
+| Average order acceptance rate (%)          | 1     |
+| Average food preparation time              | 1     |
+| Average menu size (items listed)           | 1     |
+| Restaurants using self-serve dashboard (%) | 1     |
+
+### Partner Satisfaction & Grievances
+
+| Metric                                   | Value |
+| ---------------------------------------- | ----- |
+| Restaurant satisfaction score (out of 5) |   4    |
+| Total grievances / complaints raised     |   3    |
+| Top grievance category                   |   2    |
+| Average grievance resolution time        |   1    |
+
+### Cuisine & Category Breakdown
+
+| Cuisine / Category | Active Partners | % of Total | Order Share (%) |
+| ------------------ | --------------- | ---------- | --------------- |
+|    1                |      76           |   1         |       5          |
+|    2                |      75           |   2         |       6          |
+|    3                |      78           |   3         |       7          |
+|    4                |      89           |   5         |       8          |
+|    5                |      78           |   4         |       9          |
+
+### Partnership Tiers
+
+| Tier                 | Count | Benefits |
+| -------------------- | ----- | -------- |
+| Free (basic listing) |   1   |    1     |
+| Commission-based     |   2   |    2     |
+| Premium (featured)   |   3   |    3     |
+
+## Financial Year: 2024-2025
+=======
 | Metric                              | Value |
 | ----------------------------------- | ----- |
 | Total active restaurant partners    | 100   |
@@ -21,27 +69,21 @@ menu full for customers.
 | Restaurants churned (left platform) | Done  |
 | Net growth                          | 20%   |
 | Churn rate (%)                      |  50%  |
-
-### Restaurant Engagement
-
+=======
 | Metric                                     | Value |
 | ------------------------------------------ | ----- |
 | Average order acceptance rate (%)          |  20%  |
 | Average food preparation time              |  10m  |
 | Average menu size (items listed)           |  30m  |
 | Restaurants using self-serve dashboard (%) |  40%  |
-
-### Partner Satisfaction & Grievances
-
+=======
 | Metric                                   | Value |
 | ---------------------------------------- | ----- |
 | Restaurant satisfaction score (out of 5) |   4   |
 | Total grievances / complaints raised     |  34   |
 | Top grievance category                   |  56   |
 | Average grievance resolution time        | 20min |
-
-### Cuisine & Category Breakdown
-
+=======
 | Cuisine / Category | Active Partners | % of Total | Order Share (%) |
 | ------------------ | --------------- | ---------- | --------------- |
 |       Electronics  |   solin         |    20      |      65         |
