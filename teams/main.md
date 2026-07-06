@@ -125,3 +125,44 @@ We dont care about it.
 ## Linked Reports
 
 - [Product & Technology Report → product.md](product/product.md)
+
+## Logistics & Delivery
+
+### Overview
+
+_Briefly describe how Logistics & Delivery works at Swiggy — the rider fleet,
+order allocation and routing, delivery-time performance, and last-mile cost economics._
+
+### Key Metrics Summary
+
+| Metric                          | Value | Trend (↑ / ↓ / →) |
+| ------------------------------- | ----- | ----------------- |
+| Total active delivery riders    |  10   |        ↑          |
+| Total orders delivered          |  20   |        ↑          |
+| Average delivery time (minutes) |  30   |        ↓          |
+| On-time delivery rate (%)       |  40   |        ↑          |
+| Average delivery cost per order |  50   |        ↑          |
+
+### Top Achievements
+
+1. Best food delivery app in india
+2. faster delivery
+3. Received large investments
+
+### Key Challenges
+
+1. Customer satisfaction
+2. faster delivery
+3. employee satisfaction
+
+### Outlook & Next Steps
+
+_What should Logistics focus on next? Fleet expansion, EV adoption, faster routing, cost per drop?_
+
+Focus on customer needs and requirements
+Time to time delivery
+---
+
+## Linked Reports
+
+- [Logistics & Delivery Report → logistics.md](logistics/logistics.md)
