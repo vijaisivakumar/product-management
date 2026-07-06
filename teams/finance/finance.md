@@ -26,7 +26,7 @@ settlement and the rider's earnings credit.
 
 | Payment Mode               | % of Transactions | Avg Transaction Value |
 | -------------------------- | ----------------- | --------------------- |
-| UPI                        |         80        |         800           |
+| UPI                        |         80        |         950           |
 | Credit / Debit Card        |         10        |        1500           |
 | Wallet (Paytm / PhonePe)   |          5        |         500           |
 | Cash on Delivery (COD)     |          2.5      |         500           |
