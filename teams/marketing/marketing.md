@@ -9,26 +9,26 @@ consumer brands.
 
 ---
 
-## Financial Year: **\_\_\_\_**
+## Financial Year: **2023-2024**
 
 ### User Acquisition & App Growth
 
 | Metric                                | Value |
 | ------------------------------------- | ----- |
-| Total app installs                    |       |
-| Organic installs                      |       |
-| Paid installs (Google / Meta / other) |       |
-| Monthly active users (MAU)            |       |
-| Cost per install (CPI)                |       |
-| Customer acquisition cost (CAC)       |       |
+| Total app installs                    |  100  |
+| Organic installs                      |  20   |
+| Paid installs (Google / Meta / other) |  40   |   
+| Monthly active users (MAU)            |  30   |
+| Cost per install (CPI)                |  30   |
+| Customer acquisition cost (CAC)       |  10   |
 
 ### Campaign Performance
 
 | Campaign Name | Spend (₹ Lakhs) | Reach | Conversions | ROI |
 | ------------- | --------------- | ----- | ----------- | --- |
-|               |                 |       |             |     |
-|               |                 |       |             |     |
-|               |                 |       |             |     |
+|     xy        |     10          |  100  |      5      |  2  |
+|     yz        |     20          |  40   |      6      |  2  |
+|     yx        |     10          |  10   |      7      |  2  |
 
 _Which campaign performed best? Which underperformed? Why?_
 
@@ -36,9 +36,9 @@ _Which campaign performed best? Which underperformed? Why?_
 
 | Platform  | Followers | Engagement Rate | Growth (%) |
 | --------- | --------- | --------------- | ---------- |
-| Instagram |           |                 |            |
-| Twitter/X |           |                 |            |
-| YouTube   |           |                 |            |
+| Instagram |    100000 |      45         |     45     |
+| Twitter/X |    10000  |      78         |     78    |
+| YouTube   |    10000  |      90         |     32     |
 
 _Any viral moments or trending content this year? Describe briefly._
 
@@ -46,5 +46,6 @@ _Any viral moments or trending content this year? Describe briefly._
 
 | Partner Brand | Deal Value (₹ Lakhs) | Type (co-branded / sponsored / cross-promo) |
 | ------------- | -------------------- | ------------------------------------------- |
-|               |                      |                                             |
-|               |                      |                                             |
+|      addidas  |      10000000        |         co-branded                          |
+|      nike     |      123456          |           cross-promo                       |
+		
