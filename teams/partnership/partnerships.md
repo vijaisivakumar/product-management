@@ -109,6 +109,55 @@ menu full for customers.
 | Commission-based     |   2   |    21     |
 | Premium (featured)   |   3   |    31     |
 
+## Financial Year: **2023-24**
+
+### Restaurant Portfolio
+
+| Metric                              | Value |
+| ----------------------------------- | ----- |
+| Total active restaurant partners    |  22   |
+| New restaurants onboarded           |  12   |
+| Restaurants churned (left platform) |  3    |
+| Net growth                          |  7    |
+| Churn rate (%)                      |  13%  |
+
+### Restaurant Engagement
+
+| Metric                                     | Value |
+| ------------------------------------------ | ----- |
+| Average order acceptance rate (%)          |   6   |
+| Average food preparation time              |   1m  |
+| Average menu size (items listed)           |   23  |
+| Restaurants using self-serve dashboard (%) |   12  |
+
+### Partner Satisfaction & Grievances
+
+| Metric                                   | Value |
+| ---------------------------------------- | ----- |
+| Restaurant satisfaction score (out of 5) |  3    |
+| Total grievances / complaints raised     |   345 |
+| Top grievance category                   |   34  |
+| Average grievance resolution time        |   56  |
+
+### Cuisine & Category Breakdown
+
+| Cuisine / Category | Active Partners | % of Total | Order Share (%) |
+| ------------------ | --------------- | ---------- | --------------- |
+|         Desert     |         6       |    56      |      5          |
+|        ice cream   |        5        |    45      |      6          |
+|        Juice       |        5        |    2       |      2          |
+|        Coffee      |         2       |    56      |      89         |
+|        Coke        |         8       |     87     |      7          |
+
+### Partnership Tiers
+
+| Tier                 | Count | Benefits |
+| -------------------- | ----- | -------- |
+| Free (basic listing) |   4   |     23   |
+| Commission-based     |   56  |     21   |
+| Premium (featured)   |   76  |     4    |
+
+
 
 ## Financial Year: 2024-2025
 =======
