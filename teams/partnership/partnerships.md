@@ -16,44 +16,44 @@ menu full for customers.
 
 | Metric                              | Value |
 | ----------------------------------- | ----- |
-| Total active restaurant partners    | 1     |
-| New restaurants onboarded           | 2     |
-| Restaurants churned (left platform) | 3     |
-| Net growth                          | 4     |
-| Churn rate (%)                      | 5     |
+| Total active restaurant partners    | 25    |
+| New restaurants onboarded           | 26    |
+| Restaurants churned (left platform) | 36    |
+| Net growth                          | 46    |
+| Churn rate (%)                      | 56    |
 
 ### Restaurant Engagement
 
 | Metric                                     | Value |
 | ------------------------------------------ | ----- |
-| Average order acceptance rate (%)          | 1     |
-| Average food preparation time              | 1     |
-| Average menu size (items listed)           | 1     |
-| Restaurants using self-serve dashboard (%) | 1     |
+| Average order acceptance rate (%)          | 12    |
+| Average food preparation time              | 13    |
+| Average menu size (items listed)           | 12    |
+| Restaurants using self-serve dashboard (%) | 12    |
 
 ### Partner Satisfaction & Grievances
 
 | Metric                                   | Value |
 | ---------------------------------------- | ----- |
-| Restaurant satisfaction score (out of 5) |   4    |
-| Total grievances / complaints raised     |   3    |
-| Top grievance category                   |   2    |
-| Average grievance resolution time        |   1    |
+| Restaurant satisfaction score (out of 5) | 04    |
+| Total grievances / complaints raised     | 03    |
+| Top grievance category                   | 02    |
+| Average grievance resolution time        | 01    |
 
 ### Cuisine & Category Breakdown
 
 | Cuisine / Category | Active Partners | % of Total | Order Share (%) |
 | ------------------ | --------------- | ---------- | --------------- |
-|    1                |      76           |   1         |       5          |
-|    2                |      75           |   2         |       6          |
-|    3                |      78           |   3         |       7          |
-|    4                |      89           |   5         |       8          |
-|    5                |      78           |   4         |       9          |
+|    001             |      7          |  11        |       5          |
+|    20              |      7          |   2        |       6          |
+|    30              |      7          |   3        |       7          |
+|    40              |      8          |   5        |       8          |
+|    50              |      7          |   42       |       9          |
 
 ### Partnership Tiers
 
 | Tier                 | Count | Benefits |
 | -------------------- | ----- | -------- |
-| Free (basic listing) |   1   |    1     |
-| Commission-based     |   2   |    2     |
-| Premium (featured)   |   3   |    3     |
+| Free (basic listing) |   1   |    11     |
+| Commission-based     |   2   |    21     |
+| Premium (featured)   |   3   |    31     |
