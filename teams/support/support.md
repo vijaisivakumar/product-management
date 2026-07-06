@@ -8,46 +8,46 @@ social media. The team is the direct voice of the customer inside the organisati
 
 \---
 
-## Financial Year: 2024-25
+## Financial Year: 2025-26
 
 ### Ticket Volume \& Resolution
 
 |Metric|Value|
 |-|-|
-|Total tickets handled|200|
-|Breakdown — in-app chat|50|
-|Breakdown — phone|50|
-|Breakdown — email|40|
-|Breakdown — social media|30|
-|Average resolution time|30|
-|First-contact resolution rate (%)|70%|
+|Total tickets handled|300|
+|Breakdown — in-app chat|80|
+|Breakdown — phone|60|
+|Breakdown — email|150|
+|Breakdown — social media|10|
+|Average resolution time|2.5|
+|First-contact resolution rate (%)|80%|
 
 ### Top Ticket Categories
 
 |Category|Volume|% of Total|
 |-|-|-|
-|Refund |70|35%|
-|Returns|36|18%|
-|Ratings|16|8%|
-|Delivery \& Delay Issues|10|5%|
+|Refund |10|35%|
+|Returns|16|18%|
+|Ratings|26|8%|
+|Delivery \& Delay Issues|20|6%|
 
 ### Customer Satisfaction
 
 |Metric|Value|
 |-|-|
-|CSAT score (out of 5)|3|
-|Net Promoter Score (NPS)|75|
-|Top reason for positive feedback|Fast delivery |
-|Top reason for negative feedback|Refund \& Returns|
+|CSAT score (out of 5)|4|
+|Net Promoter Score (NPS)|85|
+|Top reason for positive feedback|Quick resolving |
+|Top reason for negative feedback|Refund delay|
 
 ### Escalations \& Refunds
 
 |Metric|Value|
 |-|-|
-|Total escalations to management|20|
-|Escalation resolution time (avg)|4 hours|
-|Total refunds processed (₹ Cr)|2.5|
-|Refund rate (% of orders)|5%|
+|Total escalations to management|30|
+|Escalation resolution time (avg)|2 hours|
+|Total refunds processed (₹ Cr)|2.2|
+|Refund rate (% of orders)|6%|
 
 
 
