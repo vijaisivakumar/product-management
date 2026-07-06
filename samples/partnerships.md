@@ -10,26 +10,26 @@ menu full for customers.
 
 ---
 
-## Financial Year: **\_\_\_\_**
+## Financial Year: 2021-22
 
 ### Restaurant Portfolio
 
 | Metric                              | Value |
 | ----------------------------------- | ----- |
-| Total active restaurant partners    |       |
-| New restaurants onboarded           |       |
-| Restaurants churned (left platform) |       |
-| Net growth                          |       |
-| Churn rate (%)                      |       |
+| Total active restaurant partners    |  1    |
+| New restaurants onboarded           |  2    |
+| Restaurants churned (left platform) |  3    |
+| Net growth                          |  4    |
+| Churn rate (%)                      |  5    |
 
 ### Restaurant Engagement
 
 | Metric                                     | Value |
 | ------------------------------------------ | ----- |
-| Average order acceptance rate (%)          |       |
-| Average food preparation time              |       |
-| Average menu size (items listed)           |       |
-| Restaurants using self-serve dashboard (%) |       |
+| Average order acceptance rate (%)          | 1     |
+| Average food preparation time              | 3     |
+| Average menu size (items listed)           | 6     |
+| Restaurants using self-serve dashboard (%) | 8     |
 
 ### Partner Satisfaction & Grievances
 
@@ -44,16 +44,16 @@ menu full for customers.
 
 | Cuisine / Category | Active Partners | % of Total | Order Share (%) |
 | ------------------ | --------------- | ---------- | --------------- |
-|                    |                 |            |                 |
-|                    |                 |            |                 |
-|                    |                 |            |                 |
-|                    |                 |            |                 |
-|                    |                 |            |                 |
+|   Mexican          |  1              |   10       |  1              |
+|   Italian          |  2              |   20       |  2              |
+|   Chinese          |  3              |   30       |  3              |
+|   Indian           |  4              |   40       |  4              |
+|   American         |  5              |   50       |  5              |
 
 ### Partnership Tiers
 
 | Tier                 | Count | Benefits |
 | -------------------- | ----- | -------- |
-| Free (basic listing) |       |          |
-| Commission-based     |       |          |
-| Premium (featured)   |       |          |
+| Free (basic listing) |  1    |      1   |
+| Commission-based     |  2    |      1   |
+| Premium (featured)   |  3    |      1   |
