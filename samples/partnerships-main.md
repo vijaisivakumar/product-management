@@ -18,23 +18,23 @@ onboarding, engagement, retention, partnership tiers._
 
 | Metric                             | Value   | Trend (↑ / ↓ / →) |
 |------------------------------------|---------|--------------------|
-| Total active restaurant partners   |         |                    |
-| New restaurants onboarded          |         |                    |
-| Restaurant churn rate              |         |                    |
-| Average order acceptance rate      |         |                    |
-| Restaurant satisfaction score      |         |                    |
+| Total active restaurant partners   |   20      |           ↑         |
+| New restaurants onboarded          |   30      |           ↓         |
+| Restaurant churn rate              |   50      |           ↑         |
+| Average order acceptance rate      |   60      |           ↓         |
+| Restaurant satisfaction score      |   70      |           ↑         |
 
 ### Top Achievements
 
-1.
-2.
-3.
+1.good
+2.bad
+3.best
 
 ### Key Challenges
 
-1.
-2.
-3.
+1.nothing
+2.something
+3.something
 
 ### Outlook & Next Steps
 
