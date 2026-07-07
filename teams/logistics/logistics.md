@@ -89,11 +89,11 @@ When food arrives hot and on time, it is this team's operations working behind t
 
 | Metric                                | Value |
 | ------------------------------------- | ----- |
-| Average delivery cost per order (₹)   |  99   |
-| Total rider payout (₹ Cr)             |  01   |
-| Cost per km (₹)                       |  13   |
-| Deliveries per rider per day (avg)    |  29   |
-| Fuel / EV mix in fleet (%)            |  56   |
+| Average delivery cost per order (₹)   |  099   |
+| Total rider payout (₹ Cr)             |  001   |
+| Cost per km (₹)                       |  013   |
+| Deliveries per rider per day (avg)    |  029   |
+| Fuel / EV mix in fleet (%)            |  056   |
 
 
 ## Financial Year: **2023-2024**
