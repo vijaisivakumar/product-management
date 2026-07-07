@@ -1,3 +1,5 @@
+hello from logistics-rebase branch
+Editing second time
 # Logistics & Delivery Department — Business Review
 
 ## About This Department
@@ -8,6 +10,7 @@ This team manages rider onboarding and retention, order allocation and routing,
 delivery-time performance, fleet utilisation, and the cost economics of each drop.
 When food arrives hot and on time, it is this team's operations working behind the scenes.
 
+---
 
 ## Financial Year: 2021 - 2022
 
@@ -35,7 +38,7 @@ When food arrives hot and on time, it is this team's operations working behind t
 
 | Metric                                   | Value |
 | ---------------------------------------- | ----- |
-| Order acceptance rate by riders (%)      |   70    |
+| Order acceptance rate by riders (%)      |   70   |
 | Average rider-to-restaurant wait time    |   30    |
 | Batched / clubbed order rate (%)         |   25    |
 | Cancelled deliveries (rider-side)        |   19    |
@@ -52,6 +55,8 @@ When food arrives hot and on time, it is this team's operations working behind t
 | Fuel / EV mix in fleet (%)            |   30    |
 
 
+Performed the same action using rebase;
+Git rebase is used to integrate changes from another branch by replaying your commits on top of the latest state of that branch, instead of creating a merge commit. This results in a linear, cleaner commit history without unnecessary merge commits.
 
 ## Financial Year: **2022-2023**
 
@@ -179,5 +184,14 @@ When food arrives hot and on time, it is this team's operations working behind t
 | Cost per km (₹)                       |   90    |
 | Deliveries per rider per day (avg)    |   80    |
 | Fuel / EV mix in fleet (%)            |   60    |
+
+| Average delivery cost per order (₹)   |  099   |
+| Total rider payout (₹ Cr)             |  001   |
+| Cost per km (₹)                       |  013   |
+| Deliveries per rider per day (avg)    |  029   |
+| Fuel / EV mix in fleet (%)            |  056   |
+
+
+rebase by tanish;
 
 #second commit
