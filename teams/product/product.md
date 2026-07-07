@@ -10,14 +10,14 @@ by the decisions this team makes.
 
 ---
 
-## Financial Year: **2023-2024**
+## Financial Year: **2021-2022**
 
 ### Product Development & Releases
 
 | Metric                                  | Value |
 | --------------------------------------- | ----- |
-| Major features shipped                  |    162   |
-| App releases (iOS / Android)            |    37264   |
+| Major features shipped                  |    aaa   |
+| App releases (iOS / Android)            |    bbb   |
 | Bugs resolved                           |    382   |
 | Average release cycle (days)            |    497   |
 | Roadmap items completed vs. planned (%) |    7487   |
@@ -54,7 +54,7 @@ _Which new feature drove the most engagement this year? Which underperformed? Wh
 
 
 
-## Financial Year: 2022 - 23
+## Financial Year: **2022 - 2023**
 
 ### Product Development & Releases
 
