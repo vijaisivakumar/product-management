@@ -167,15 +167,6 @@ Time to time delivery
 
 - [Logistics & Delivery Report → logistics.md](logistics/logistics.md)
 
-# Swiggy — CRM Business Review
-
-## Company Overview
-
-Swiggy is a hyperlocal food-delivery platform operating across major Indian cities.
-The platform connects customers, restaurant partners, and delivery riders through a
-mobile app and web dashboard. This document consolidates each department's business
-review into a single CRM report.
-
 ## Sales
 
 ### Overview

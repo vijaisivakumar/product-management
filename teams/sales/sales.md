@@ -124,13 +124,6 @@ the sales pipeline, and driving revenue targets across city tiers.
 | Revenue from existing accounts |   1.2 |
 | Target attainment (%)          |  100% |
 
-# Sales Department — Business Review
-
-## About This Department
-
-The Sales team at Swiggy is responsible for growing the restaurant supply side of the
-platform — acquiring new restaurant partners, closing enterprise and chain deals, managing
-the sales pipeline, and driving revenue targets across city tiers.
 
 ---
 
