@@ -8,13 +8,13 @@ social media. The team is the direct voice of the customer inside the organisati
 
 ---
 
-## Financial Year: **2023-2024**
+## Financial Year: **2025-2026**
 
 ### Ticket Volume & Resolution
 
 | Metric                            | Value |
 | --------------------------------- | ----- |
-| Total tickets handled             | 1000  |
+| Total tickets handled             | 100  |
 | Breakdown — in-app chat           |  10   |
 | Breakdown — phone                 |   6   |
 | Breakdown — email                 |   5   |
@@ -49,47 +49,4 @@ social media. The team is the direct voice of the customer inside the organisati
 | Total refunds processed (₹ Cr)   |  2    |
 | Refund rate (% of orders)        |  67   |
 \---
-
-## Financial Year: 2024-25
-
-### Ticket Volume \& Resolution
-
-|Metric|Value|
-|-|-|
-|Total tickets handled|200|
-|Breakdown — in-app chat|50|
-|Breakdown — phone|50|
-|Breakdown — email|40|
-|Breakdown — social media|30|
-|Average resolution time|30|
-|First-contact resolution rate (%)|70%|
-
-### Top Ticket Categories
-
-|Category|Volume|% of Total|
-|-|-|-|
-|Refund |70|35%|
-|Returns|36|18%|
-|Ratings|16|8%|
-|Delivery \& Delay Issues|10|5%|
-
-### Customer Satisfaction
-
-|Metric|Value|
-|-|-|
-|CSAT score (out of 5)|3|
-|Net Promoter Score (NPS)|75|
-|Top reason for positive feedback|Fast delivery |
-|Top reason for negative feedback|Refund \& Returns|
-
-### Escalations \& Refunds
-
-|Metric|Value|
-|-|-|
-|Total escalations to management|20|
-|Escalation resolution time (avg)|4 hours|
-|Total refunds processed (₹ Cr)|2.5|
-|Refund rate (% of orders)|5%|
-
-
 
