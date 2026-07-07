@@ -40,7 +40,7 @@ the sales pipeline, and driving revenue targets across city tiers.
 
 | Metric                         | Value |
 | ------------------------------ | ----- |
-| Total sales revenue (₹ Cr)     |     2 |
+| Total sales revenue (₹ Cr)     |   2.2 |
 | Revenue from new restaurants   |   1.4 |
 | Revenue from existing accounts |   0.6 |
 | Target attainment (%)          |  100% |
