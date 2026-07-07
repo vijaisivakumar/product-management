@@ -1,3 +1,4 @@
+hello from logistics-rebase branch
 # Logistics & Delivery Department — Business Review
 
 ## About This Department
@@ -36,7 +37,7 @@ When food arrives hot and on time, it is this team's operations working behind t
 
 | Metric                                   | Value |
 | ---------------------------------------- | ----- |
-| Order acceptance rate by riders (%)      |   70    |
+| Order acceptance rate by riders (%)      |   70   |
 | Average rider-to-restaurant wait time    |   30    |
 | Batched / clubbed order rate (%)         |   25    |
 | Cancelled deliveries (rider-side)        |   19    |
