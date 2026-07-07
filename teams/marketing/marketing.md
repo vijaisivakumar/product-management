@@ -1,4 +1,4 @@
-# Marketing Department — Business Review
+# Marketing Department — Business Review and analysis
 
 ## About This Department
 
