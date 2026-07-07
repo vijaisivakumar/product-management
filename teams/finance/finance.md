@@ -80,7 +80,7 @@ settlement and the rider's earnings credit.
 | Metric                          | Value |
 | ------------------------------- | ----- |
 | Total restaurant payouts (₹ Cr) |  60   |
-| Total rider payouts (₹ Cr)      |  10   |
+| Total rider payouts (₹ Cr)      |  1   |
 | Average settlement cycle (days) |  30   |
 | Payout disputes raised          |  10   |
 
@@ -103,7 +103,7 @@ settlement and the rider's earnings credit.
 | Gross order value (₹ Cr)                   |   2   |
 | Platform commission revenue (₹ Cr)         |   1   |
 | Delivery fee revenue (₹ Cr)                |   12  |
-| Subscription revenue — Swiggy Pro (₹ Cr)   |    4  |
+| Subscription revenue — Swiggy Pro (₹ Cr)   |   3   |
 | Total gross revenue (₹ Cr)                 |   3   |
 | Net revenue after payouts (₹ Cr)           |   2   |
 
