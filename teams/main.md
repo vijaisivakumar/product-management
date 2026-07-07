@@ -130,8 +130,7 @@ We dont care about it.
 
 ### Overview
 
-_Briefly describe how Logistics & Delivery works at Swiggy — the rider fleet,
-order allocation and routing, delivery-time performance, and last-mile cost economics._
+_Briefly describe how Logistics & Delivery works at Swiggy — the rider fleet, order allocation and routing, delivery-time performance, and last-mile cost economics.
 
 ### Key Metrics Summary
 
@@ -162,7 +161,65 @@ _What should Logistics focus on next? Fleet expansion, EV adoption, faster routi
 Focus on customer needs and requirements
 Time to time delivery
 ---
+# Linked Reports
+
+- [Logistics & Delivery Report → logistics.md](logistics/logistics.md)
+
+## Finance & Payments
+
+### Overview
+
+_Briefly describe how Finance & Payments works at Swiggy — revenue streams,
+payment processing, payouts to partners and riders._
+ok ok
+
+### Key Metrics Summary
+
+| Metric                          | Value | Trend (↑ / ↓ / →) |
+| ------------------------------- | ----- | ----------------- |
+| Total active delivery riders    |  10   |        ↑          |
+| Total orders delivered          |  20   |        ↑          |
+| Average delivery time (minutes) |  30   |        ↓          |
+| On-time delivery rate (%)       |  40   |        ↑          |
+| Average delivery cost per order |  50   |        ↑          |
+| Metric                                | Value | Trend (↑ / ↓ / →) |
+| ------------------------------------- | ----- | ----------------- |
+| Gross revenue (₹ Cr)                  |  1    |    1              |
+| Net revenue after payouts (₹ Cr)      |   2   |   9               |
+| Average transaction value             |    3  |  8                |
+| Refund rate (% of transactions)       |     4 | 7                 |
+| Payment mode split (UPI / Card / COD) |      5|6                  |
+
+### Top Achievements
+
+1. Best food delivery app in india
+2. faster delivery
+3. Received large investments
+1. one 
+2. two
+3. three
+
+### Key Challenges
+
+1. Customer satisfaction
+2. faster delivery
+3. employee satisfaction
+1. one 
+2. two
+3. three
+
+### Outlook & Next Steps
+
+_What should Logistics focus on next? Fleet expansion, EV adoption, faster routing, cost per drop?_
+
+Focus on customer needs and requirements
+Time to time delivery
+---
+_What should Finance focus on next? Cost optimisation, new payment methods, margins?_
+ok ok
+---
 
 ## Linked Reports
 
-- [Logistics & Delivery Report → logistics.md](logistics/logistics.md)
+- [Finance & Payments Report → finance.md](finance/finance.md)
+
