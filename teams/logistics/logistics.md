@@ -56,5 +56,47 @@ When food arrives hot and on time, it is this team's operations working behind t
 Performed the same action using rebase;
 Git rebase is used to integrate changes from another branch by replaying your commits on top of the latest state of that branch, instead of creating a merge commit. This results in a linear, cleaner commit history without unnecessary merge commits.
 
+## Financial Year: **2022-2023**
+
+### Fleet & Rider Network
+
+| Metric                                  | Value |
+| --------------------------------------- | ----- |
+| Total active delivery riders            |  89   |
+| New riders onboarded                    |  10   |
+| Riders churned (left platform)          |  25   |
+| Full-time vs. part-time split (%)       |  56   |
+| Average riders online per hour (peak)   |  12   |
+
+### Delivery Performance
+
+| Metric                                     | Value |
+| ------------------------------------------ | ----- |
+| Total orders delivered                     |  78   |
+| Average delivery time (minutes)            |  21   |
+| On-time delivery rate (%)                  |  89   |
+| Average distance per delivery (km)         |  12   |
+| Late / delayed deliveries (%)              |  03   |
+
+### Order Fulfillment & Allocation
+
+| Metric                                   | Value |
+| ---------------------------------------- | ----- |
+| Order acceptance rate by riders (%)      |  85   |
+| Average rider-to-restaurant wait time    |  22   |
+| Batched / clubbed order rate (%)         |  50   |
+| Cancelled deliveries (rider-side)        |  10   |
+| Undelivered / returned orders            |  14   |
+
+### Cost & Efficiency
+
+| Metric                                | Value |
+| ------------------------------------- | ----- |
+| Average delivery cost per order (₹)   |  099   |
+| Total rider payout (₹ Cr)             |  001   |
+| Cost per km (₹)                       |  013   |
+| Deliveries per rider per day (avg)    |  029   |
+| Fuel / EV mix in fleet (%)            |  056   |
+
 
 rebase by tanish;
