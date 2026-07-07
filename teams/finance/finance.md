@@ -100,12 +100,12 @@ settlement and the rider's earnings credit.
 
 | Metric                                     | Value |
 | ------------------------------------------ | ----- |
-| Gross order value (₹ Cr)                   |   2   |
-| Platform commission revenue (₹ Cr)         |   1   |
-| Delivery fee revenue (₹ Cr)                |   12  |
-| Subscription revenue — Swiggy Pro (₹ Cr)   |    4  |
-| Total gross revenue (₹ Cr)                 |   3   |
-| Net revenue after payouts (₹ Cr)           |   2   |
+| Gross order value (₹ Cr)                   |   20   |
+| Platform commission revenue (₹ Cr)         |   10   |
+| Delivery fee revenue (₹ Cr)                |   120  |
+| Subscription revenue — Swiggy Pro (₹ Cr)   |    40  |
+| Total gross revenue (₹ Cr)                 |   30   |
+| Net revenue after payouts (₹ Cr)           |   20   |
 
 ### Payment Mode Split
 
