@@ -60,3 +60,4 @@ When food arrives hot and on time, it is this team's operations working behind t
 | Total rider payout (₹ Cr)             |  03   |
 | Cost per km (₹)                       |  14   |
 | Deliveries per rider per day (avg)    |  33   |
+| Fuel / EV mix in fleet (%)            |  47   |
