@@ -112,11 +112,11 @@ settlement and the rider's earnings credit.
 
 | Payment Mode               | % of Transactions | Avg Transaction Value |
 | -------------------------- | ----------------- | --------------------- |
-| UPI                        |       10          |      300              |
-| Credit / Debit Card        |       20          |      300              |
-| Wallet (Paytm / PhonePe)   |       25          |      200              |
-| Cash on Delivery (COD)     |       20          |      100              |
-| Swiggy Credits / Coupons   |       20          |      100              |
+| UPI                        |       10          |      3000             |
+| Credit / Debit Card        |       20          |      3000             |
+| Wallet (Paytm / PhonePe)   |       25          |      2000             |
+| Cash on Delivery (COD)     |       20          |      1000             |
+| Swiggy Credits / Coupons   |       20          |      1000             |
 
 ### Payouts & Settlements
 
