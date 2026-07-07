@@ -51,3 +51,11 @@ When food arrives hot and on time, it is this team's operations working behind t
 | Cost per km (₹)                       |  13   |
 | Deliveries per rider per day (avg)    |  29   |
 | Fuel / EV mix in fleet (%)            |  56   |
+
+### Rebase Data 2022-2023
+
+| Metric                                | Value |
+| ------------------------------------- | ----- |
+| Average delivery cost per order (₹)   |  78   |
+| Total rider payout (₹ Cr)             |  03   |
+| Cost per km (₹)                       |  14   |
