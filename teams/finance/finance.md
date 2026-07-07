@@ -115,7 +115,7 @@ settlement and the rider's earnings credit.
 | Credit / Debit Card        |         3         |          1             |
 | Wallet (Paytm / PhonePe)   |         2         |          3             |
 | Cash on Delivery (COD)     |         4         |          6             |
-| Swiggy Credits / Coupons |           1         |           5            |
+| Swiggy Credits / Coupons |           1         |          44            |
 
 ### Payouts & Settlements
 
@@ -130,7 +130,7 @@ settlement and the rider's earnings credit.
 
 | Metric                              | Value |
 | ----------------------------------- | ----- |
-| Total refunds disbursed (₹ Cr)      |   10  |
+| Total refunds disbursed (₹ Cr)      |   1   |
 | Refund rate (% of orders)           |   5   |
 | Fraud / policy-abuse cases detected |   2   |
 | Estimated fraud loss (₹ Lakhs)      |   3   |
@@ -142,7 +142,7 @@ settlement and the rider's earnings credit.
 | Metric                                     | Value |
 | ------------------------------------------ | ----- |
 | Gross order value (₹ Cr)                   |    7  |
-| Platform commission revenue (₹ Cr)         |    2  |
+| Platform commission revenue (₹ Cr)         |    3  |
 | Delivery fee revenue (₹ Cr)                |    5  |
 | Subscription revenue — Swiggy Pro (₹ Cr)	 |    4  |
 | Total gross revenue (₹ Cr)                 |    3  |
