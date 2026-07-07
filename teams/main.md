@@ -11,34 +11,33 @@ review into a single CRM report.
 
 ### Overview
 
-_Briefly describe what the Product & Technology function does at Swiggy — the app
-experience, feature development, performance and reliability, experimentation, and roadmap._
+We the product team are the best and we find immense pleasure in doing so.
 
 ### Key Metrics Summary
 
 | Metric                           | Value | Trend (↑ / ↓ / →) |
 | -------------------------------- | ----- | ----------------- |
-| Major features shipped           |       |                   |
-| App crash-free session rate (%)  |       |                   |
-| App store rating (iOS / Android) |       |                   |
-| A/B experiments run              |       |                   |
-| Roadmap completion (%)           |       |                   |
+| Major features shipped           |  20M  |         ↑         |
+| App crash-free session rate (%)  |  15M  |         ↑         |
+| App store rating (iOS / Android) |   5M  |         ↑         |
+| A/B experiments run              |  20M  |         ↑         |
+| Roadmap completion (%)           |  10M  |         ↑         |
 
 ### Top Achievements
 
-1.
-2.
-3.
+1. We the best in the house.
+2. We don't care about doing anything.
+3. We just don't care about achievements.
 
 ### Key Challenges
 
-1.
-2.
-3.
+1. What the frick is challenges for us?
+2. I don't know the spelling for challenges.
+3. I don't care about challenges.
 
 ### Outlook & Next Steps
 
-_What should Product focus on next? New features, performance, personalisation, platform scale?_
+There is no plan for us. The plan for you guys is to praise us.
 
 ---
 
