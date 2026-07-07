@@ -14,7 +14,7 @@ the sales pipeline, and driving revenue targets across city tiers.
 
 | Metric                                         | Value |
 | ---------------------------------------------- | ----- |
-| Total new restaurants onboarded                |    15 |
+| Total new restaurants onboarded                |   150 |
 | Tier-1 cities (Bangalore, Mumbai, Delhi, etc.) |     7 |
 | Tier-2 cities (Jaipur, Kochi, Lucknow, etc.)   |    14 |
 | Tier-3 / new cities                            |    12 |
