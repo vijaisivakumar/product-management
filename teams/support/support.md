@@ -8,6 +8,7 @@ social media. The team is the direct voice of the customer inside the organisati
 
 ---
 
+<<<<<<< HEAD
 ## Financial Year: **2022-2023**
 
 ### Ticket Volume & Resolution
@@ -50,6 +51,8 @@ social media. The team is the direct voice of the customer inside the organisati
 | Refund rate (% of orders)        |  67   |
 \---
 
+=======
+>>>>>>> 86741f83e0e3aa5d786d129812a101c4b9523a9d
 ## Financial Year: **2023-2024**
 
 ### Ticket Volume & Resolution
