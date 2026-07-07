@@ -73,7 +73,7 @@ settlement and the rider's earnings credit.
 | Credit / Debit Card        |       20          |          250          |
 | Wallet (Paytm / PhonePe)   |        6          |          100          |
 | Cash on Delivery (COD)     |        5          |          300          |
-| Swiggy Credits / Coupons   |       10          |          100          |
+| Swiggy Credits / Coupons   |        9          |          100          |
 
 ### Payouts & Settlements
 
@@ -94,6 +94,46 @@ settlement and the rider's earnings credit.
 | Estimated fraud loss (₹ Lakhs)      | 1.2   |
 
 ---
+## Financial Year: **2025**
+
+### Revenue & Profitability
+
+| Metric                                     | Value |
+| ------------------------------------------ | ----- |
+| Gross order value (₹ Cr)                   |   20   |
+| Platform commission revenue (₹ Cr)         |   10   |
+| Delivery fee revenue (₹ Cr)                |   120  |
+| Subscription revenue — Swiggy Pro (₹ Cr)   |    40  |
+| Total gross revenue (₹ Cr)                 |   30   |
+| Net revenue after payouts (₹ Cr)           |   20   |
+
+### Payment Mode Split
+
+| Payment Mode               | % of Transactions | Avg Transaction Value |
+| -------------------------- | ----------------- | --------------------- |
+| UPI                        |         4         |          2             |
+| Credit / Debit Card        |         3         |          1             |
+| Wallet (Paytm / PhonePe)   |         2         |          3             |
+| Cash on Delivery (COD)     |         4         |          6             |
+| Swiggy Credits / Coupons |           1         |          44            |
+
+### Payouts & Settlements
+
+| Metric                          | Value |
+| ------------------------------- | ----- |
+| Total restaurant payouts (₹ Cr) |  1    |
+| Total rider payouts (₹ Cr)      |  2    |
+| Average settlement cycle (days) |  3    |
+| Payout disputes raised          |  4    |
+
+### Refunds & Losses
+
+| Metric                              | Value |
+| ----------------------------------- | ----- |
+| Total refunds disbursed (₹ Cr)      |   1   |
+| Refund rate (% of orders)           |   5   |
+| Fraud / policy-abuse cases detected |   2   |
+| Estimated fraud loss (₹ Lakhs)      |   3   |
 
 ## Financial Year: **2026**
 
@@ -102,7 +142,7 @@ settlement and the rider's earnings credit.
 | Metric                                     | Value |
 | ------------------------------------------ | ----- |
 | Gross order value (₹ Cr)                   |    7  |
-| Platform commission revenue (₹ Cr)         |    2  |
+| Platform commission revenue (₹ Cr)         |    3  |
 | Delivery fee revenue (₹ Cr)                |    5  |
 | Subscription revenue — Swiggy Pro (₹ Cr)	 |    4  |
 | Total gross revenue (₹ Cr)                 |    3  |
@@ -131,7 +171,7 @@ settlement and the rider's earnings credit.
 
 | Metric                              | Value |
 | ----------------------------------- | ----- |
-| Total refunds disbursed (₹ Cr)      |   100 |
-| Refund rate (% of orders)           |   50  |
-| Fraud / policy-abuse cases detected |   20  |
-| Estimated fraud loss (₹ Lakhs)      |   30  |
+| Total refunds disbursed (₹ Cr)      |   22  |
+| Refund rate (% of orders)           |   55  |
+| Fraud / policy-abuse cases detected |   1   |
+| Estimated fraud loss (₹ Lakhs)      |   56  |
