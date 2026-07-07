@@ -204,7 +204,7 @@ to business growth._
 
 ### Outlook & Next Steps
 
-_What should Sales focus on in the coming quarter? Any targets or strategic shifts?_
+Goes on in a wonderful way
 
 ---
 
