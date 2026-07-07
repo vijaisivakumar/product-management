@@ -166,3 +166,54 @@ Time to time delivery
 ## Linked Reports
 
 - [Logistics & Delivery Report → logistics.md](logistics/logistics.md)
+
+# Swiggy — CRM Business Review
+
+## Company Overview
+
+Swiggy is a hyperlocal food-delivery platform operating across major Indian cities.
+The platform connects customers, restaurant partners, and delivery riders through a
+mobile app and web dashboard. This document consolidates each department's business
+review into a single CRM report.
+
+## Sales
+
+### Overview
+
+_Briefly describe what the Sales function does at Swiggy and how it contributes
+to business growth._
+
+### Key Metrics Summary
+
+| Metric                                 | Value | Trend (↑ / ↓ / →) |
+| -------------------------------------- | ----- | ----------------- |
+| Total restaurants onboarded            |   800 |         ↑         |
+| Revenue from new sign-ups (₹ Cr)       |   5L  |         ↑         |
+| Enterprise / chain deal revenue (₹ Cr) |   3L  |         ↑         |
+| Pipeline conversion rate               |    60 |         →         |
+| Average deal closure time              |   30  |         ↓         |
+
+### Top 
+1.The conversion is too high
+2.The average deal closure time reduced
+
+### Key Challenges
+
+1.Sales conversion of customers
+2.Deal closure time
+
+### Outlook & Next Steps
+
+_What should Sales focus on in the coming quarter? Any targets or strategic shifts?_
+
+---
+
+## Marketing
+
+## Consumer
+
+## Finance
+
+## Linked Reports
+
+- [Sales Report → sales.md](sales/sales.md)
