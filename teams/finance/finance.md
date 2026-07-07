@@ -45,7 +45,7 @@ settlement and the rider's earnings credit.
 
 | Metric                              |  Value  |
 | ----------------------------------- | ------- |
-| Total refunds disbursed (₹ Cr)      |    0.5  |
+| Total refunds disbursed (₹ Cr)      |    0.47  |
 | Refund rate (% of orders)           |    3    |
 | Fraud / policy-abuse cases detected |  700    |
 | Estimated fraud loss (₹ Lakhs)      |    0.7  |
