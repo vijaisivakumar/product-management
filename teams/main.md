@@ -166,3 +166,45 @@ Time to time delivery
 ## Linked Reports
 
 - [Logistics & Delivery Report → logistics.md](logistics/logistics.md)
+
+## Sales
+
+### Overview
+
+_Briefly describe what the Sales function does at Swiggy and how it contributes
+to business growth._
+
+### Key Metrics Summary
+
+| Metric                                 | Value | Trend (↑ / ↓ / →) |
+| -------------------------------------- | ----- | ----------------- |
+| Total restaurants onboarded            |   800 |         ↑         |
+| Revenue from new sign-ups (₹ Cr)       |   5L  |         ↑         |
+| Enterprise / chain deal revenue (₹ Cr) |   3L  |         ↑         |
+| Pipeline conversion rate               |    60 |         →         |
+| Average deal closure time              |   30  |         ↓         |
+
+### Top 
+1.The conversion is too high
+2.The average deal closure time reduced
+
+### Key Challenges
+
+1.Sales conversion of customers
+2.Deal closure time
+
+### Outlook & Next Steps
+
+Goes on in a wonderful way
+
+---
+
+## Marketing
+
+## Consumer
+
+## Finance
+
+## Linked Reports
+
+- [Sales Report → sales.md](sales/sales.md)
