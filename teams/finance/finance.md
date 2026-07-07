@@ -9,7 +9,7 @@ settlement and the rider's earnings credit.
 
 ---
 
-## Financial Year: **23-24**
+## Financial Year: **2023**
 
 ### Revenue & Profitability
 
@@ -73,7 +73,7 @@ settlement and the rider's earnings credit.
 | Credit / Debit Card        |       20          |          250          |
 | Wallet (Paytm / PhonePe)   |        6          |          100          |
 | Cash on Delivery (COD)     |        5          |          300          |
-| Swiggy Credits / Coupons   |        9          |          100          |
+| Swiggy Credits / Coupons   |       10          |          100          |
 
 ### Payouts & Settlements
 
