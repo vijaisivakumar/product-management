@@ -10,35 +10,35 @@ by the decisions this team makes.
 
 ---
 
-## Financial Year: **2021-2022**
+## Financial Year: **2023-2024**
 
 ### Product Development & Releases
 
 | Metric                                  | Value |
 | --------------------------------------- | ----- |
-| Major features shipped                  |    aaa   |
-| App releases (iOS / Android)            |    bbb   |
-| Bugs resolved                           |    ccc   |
-| Average release cycle (days)            |    ddd   |
-| Roadmap items completed vs. planned (%) |    eee   |
+| Major features shipped                  |    162   |
+| App releases (iOS / Android)            |    37264   |
+| Bugs resolved                           |    382   |
+| Average release cycle (days)            |    497   |
+| Roadmap items completed vs. planned (%) |    7487   |
 
 ### App Performance & Reliability
 
 | Metric                              | Value |
 | ----------------------------------- | ----- |
-| App crash-free session rate (%)     |   xxx    |
-| Average app load / launch time      |  yyy     |
-| Uptime / availability (%)           |  ccc     |
-| Average API response time (ms)      |  xxx     |
-| App store rating (iOS / Android)    |   yyy    |
+| App crash-free session rate (%)     |   237    |
+| Average app load / launch time      | 7487     |
+| Uptime / availability (%)           |  247863     |
+| Average API response time (ms)      |  24784     |
+| App store rating (iOS / Android)    |   24764    |
 
 ### User Engagement & Adoption
 
 | Feature | Adoption Rate (%) | Impact on Orders / Retention |
 | ------- | ----------------- | ---------------------------- |
-|   aaa      |        ddddd           |        wewe                      |
-|   bbb      |         eeeee          |          sdsd                    |
-|    ccc     |          ccccc         |             xcxcx                 |
+|   ANIME      |        247           |        2487                      |
+|   AOT      |         3273          |          4728                    |
+|    RDR2     |          3487         |             2484                 |
 
 _Which new feature drove the most engagement this year? Which underperformed? Why?_
 
@@ -98,3 +98,48 @@ _Which new feature drove the most engagement this year? Which underperformed? Wh
 | Average conversion uplift from wins (%)  |   65    |
 | Top experiment by business impact        |    46   |
 | Key roadmap theme for next year          |    46   |
+
+---
+
+## Financial Year: **2023-2024**
+
+### Product Development & Releases
+
+| Metric                                  | Value |
+| --------------------------------------- | ----- |
+| Major features shipped                  |    162   |
+| App releases (iOS / Android)            |    37264   |
+| Bugs resolved                           |    382   |
+| Average release cycle (days)            |    497   |
+| Roadmap items completed vs. planned (%) |    7487   |
+
+### App Performance & Reliability
+
+| Metric                              | Value |
+| ----------------------------------- | ----- |
+| App crash-free session rate (%)     |   237    |
+| Average app load / launch time      | 7487     |
+| Uptime / availability (%)           |  247863     |
+| Average API response time (ms)      |  24784     |
+| App store rating (iOS / Android)    |   24764    |
+
+### User Engagement & Adoption
+
+| Feature | Adoption Rate (%) | Impact on Orders / Retention |
+| ------- | ----------------- | ---------------------------- |
+|   ANIME      |        247           |        2487                      |
+|   AOT      |         3273          |          4728                    |
+|    RDR2     |          3487         |             2484                 |
+
+_Which new feature drove the most engagement this year? Which underperformed? Why?_
+
+### Experimentation & Roadmap
+
+| Metric                                   | Value |
+| ---------------------------------------- | ----- |
+| A/B experiments run                      |   4837    |
+| Experiments that shipped to production   |    34893   |
+| Average conversion uplift from wins (%)  |    464   |
+| Top experiment by business impact        |   4q8    |
+| Key roadmap theme for next year          |   489    |
+
