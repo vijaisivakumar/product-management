@@ -8,7 +8,7 @@ the sales pipeline, and driving revenue targets across city tiers.
 
 ---
 
-## Financial Year: **2021-2022**
+## Financial Year: **2020-21**
 
 ### Restaurant Onboarding
 
