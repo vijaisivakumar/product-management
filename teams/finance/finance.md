@@ -122,10 +122,10 @@ settlement and the rider's earnings credit.
 
 | Metric                          | Value |
 | ------------------------------- | ----- |
-| Total restaurant payouts (₹ Cr) |   5   |
-| Total rider payouts (₹ Cr)      |   4   |
-| Average settlement cycle (days) |   3   |
-| Payout disputes raised          |   2   |
+| Total restaurant payouts (₹ Cr) |   50  |
+| Total rider payouts (₹ Cr)      |   40  |
+| Average settlement cycle (days) |   30  |
+| Payout disputes raised          |   20  |
 
 ### Refunds & Losses
 
