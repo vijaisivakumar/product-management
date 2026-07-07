@@ -26,19 +26,19 @@ by the decisions this team makes.
 
 | Metric                              | Value |
 | ----------------------------------- | ----- |
-| App crash-free session rate (%)     |   237    |
-| Average app load / launch time      | 7487     |
-| Uptime / availability (%)           |  247863     |
-| Average API response time (ms)      |  24784     |
-| App store rating (iOS / Android)    |   24764    |
+| App crash-free session rate (%)     |    30   |
+| Average app load / launch time      |    30   |
+| Uptime / availability (%)           |    90   |
+| Average API response time (ms)      |    200   |
+| App store rating (iOS / Android)    |    4.5   |
 
 ### User Engagement & Adoption
 
 | Feature | Adoption Rate (%) | Impact on Orders / Retention |
 | ------- | ----------------- | ---------------------------- |
-|   ANIME      |        247           |        2487                      |
-|   AOT      |         3273          |          4728                    |
-|    RDR2     |          3487         |             2484                 |
+|    ABC     |         90          |         90                     |
+|    DEF     |         90          |         90                     |
+|    GHI     |         90          |         90                     |
 
 _Which new feature drove the most engagement this year? Which underperformed? Why?_
 
@@ -143,3 +143,44 @@ _Which new feature drove the most engagement this year? Which underperformed? Wh
 | Top experiment by business impact        |   4q8    |
 | Key roadmap theme for next year          |   489    |
 
+## Financial Year: 2024-2025
+
+### Product Development & Releases
+
+| Metric                                  | Value |
+| --------------------------------------- | ----- |
+| Major features shipped                  |  1000     |
+| App releases (iOS / Android)            |  500     |
+| Bugs resolved                           |  1500     |
+| Average release cycle (days)            |  30     |
+| Roadmap items completed vs. planned (%) |  90     |
+
+### App Performance & Reliability
+
+| Metric                              | Value |
+| ----------------------------------- | ----- |
+| App crash-free session rate (%)     |    30   |
+| Average app load / launch time      |    30   |
+| Uptime / availability (%)           |    90   |
+| Average API response time (ms)      |    200   |
+| App store rating (iOS / Android)    |    4.5   |
+
+### User Engagement & Adoption
+
+| Feature | Adoption Rate (%) | Impact on Orders / Retention |
+| ------- | ----------------- | ---------------------------- |
+|    ABC     |         90          |         90                     |
+|    DEF     |         90          |         90                     |
+|    GHI     |         90          |         90                     |
+
+_Which new feature drove the most engagement this year? Which underperformed? Why?_
+
+### Experimentation & Roadmap
+
+| Metric                                   | Value |
+| ---------------------------------------- | ----- |
+| A/B experiments run                      |    80   |
+| Experiments that shipped to production   |    80   |
+| Average conversion uplift from wins (%)  |    90   |
+| Top experiment by business impact        |    75   |
+| Key roadmap theme for next year          |    90   |
