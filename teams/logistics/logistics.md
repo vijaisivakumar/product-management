@@ -59,3 +59,4 @@ When food arrives hot and on time, it is this team's operations working behind t
 | Average delivery cost per order (₹)   |  78   |
 | Total rider payout (₹ Cr)             |  03   |
 | Cost per km (₹)                       |  14   |
+| Deliveries per rider per day (avg)    |  33   |
