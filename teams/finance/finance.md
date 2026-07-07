@@ -122,16 +122,16 @@ settlement and the rider's earnings credit.
 
 | Metric                          | Value |
 | ------------------------------- | ----- |
-| Total restaurant payouts (₹ Cr) |   500  |
-| Total rider payouts (₹ Cr)      |   400  |
-| Average settlement cycle (days) |   300  |
-| Payout disputes raised          |   200  |
+| Total restaurant payouts (₹ Cr) |   50  |
+| Total rider payouts (₹ Cr)      |   40  |
+| Average settlement cycle (days) |   30  |
+| Payout disputes raised          |   20  |
 
 ### Refunds & Losses
 
 | Metric                              | Value |
 | ----------------------------------- | ----- |
-| Total refunds disbursed (₹ Cr)      |   100 |
-| Refund rate (% of orders)           |   500  |
-| Fraud / policy-abuse cases detected |   200  |
-| Estimated fraud loss (₹ Lakhs)      |   300  |
+| Total refunds disbursed (₹ Cr)      |   10  |
+| Refund rate (% of orders)           |   3   |
+| Fraud / policy-abuse cases detected |   1   |
+| Estimated fraud loss (₹ Lakhs)      |   4   |
