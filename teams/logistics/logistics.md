@@ -179,3 +179,5 @@ When food arrives hot and on time, it is this team's operations working behind t
 | Cost per km (₹)                       |   90    |
 | Deliveries per rider per day (avg)    |   80    |
 | Fuel / EV mix in fleet (%)            |   60    |
+
+#rebase by Santhanam
