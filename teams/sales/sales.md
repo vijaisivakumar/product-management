@@ -14,34 +14,34 @@ the sales pipeline, and driving revenue targets across city tiers.
 
 | Metric                                         | Value |
 | ---------------------------------------------- | ----- |
-| Total new restaurants onboarded                |    12 |
-| Tier-1 cities (Bangalore, Mumbai, Delhi, etc.) |     3 |
+| Total new restaurants onboarded                |    15 |
+| Tier-1 cities (Bangalore, Mumbai, Delhi, etc.) |     7 |
 | Tier-2 cities (Jaipur, Kochi, Lucknow, etc.)   |    14 |
-| Tier-3 / new cities                            |    15 |
+| Tier-3 / new cities                            |    12 |
 
 ### Enterprise & Chain Partnerships
 
 | Metric                               | Value |
 | ------------------------------------ | ----- |
-| Number of chain deals closed         |     5 |
-| Names of top chain partners signed   |     6 |
-| Committed revenue from chains (₹ Cr) |     7 |
+| Number of chain deals closed         |     9 |
+| Names of top chain partners signed   |     7 |
+| Committed revenue from chains (₹ Cr) |     8 |
 
 ### Pipeline & Conversion
 
 | Metric                                       | Value |
 | -------------------------------------------- | ----- |
 | Total leads in pipeline                      |     8 |
-| Conversion rate (%)                          |   23% |
-| Average days to close a deal                 |     2 |
-| Top lead source (field / inbound / referral) | field |
+| Conversion rate (%)                          |   27% |
+| Average days to close a deal                 |     5 |
+| Top lead source (field / inbound / referral) |inbound|
 
 ### Revenue
 
 | Metric                         | Value |
 | ------------------------------ | ----- |
 | Total sales revenue (₹ Cr)     |     2 |
-| Revenue from new restaurants   |   1.4 |
-| Revenue from existing accounts |   0.6 |
+| Revenue from new restaurants   |   1.7 |
+| Revenue from existing accounts |   1.2 |
 | Target attainment (%)          |  100% |
 
