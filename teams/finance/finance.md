@@ -69,11 +69,11 @@ settlement and the rider's earnings credit.
 
 | Payment Mode               | % of Transactions | Avg Transaction Value |
 | -------------------------- | ----------------- | --------------------- |
-| UPI                        |       60          |           50          |
+| UPI                        |       60          |           5          |
 | Credit / Debit Card        |       20          |          250          |
 | Wallet (Paytm / PhonePe)   |        6          |          100          |
 | Cash on Delivery (COD)     |        5          |          300          |
-| Swiggy Credits / Coupons   |        9          |          100          |
+| Swiggy Credits / Coupons   |        9          |          10          |
 
 ### Payouts & Settlements
 
@@ -89,7 +89,7 @@ settlement and the rider's earnings credit.
 | Metric                              | Value |
 | ----------------------------------- | ----- |
 | Total refunds disbursed (₹ Cr)      |   6   |
-| Refund rate (% of orders)           |  88   |
+| Refund rate (% of orders)           |  8   |
 | Fraud / policy-abuse cases detected |   5   |
 | Estimated fraud loss (₹ Lakhs)      | 1.2   |
 
