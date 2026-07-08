@@ -2,7 +2,7 @@
 
 ## About This Department
 
-I'm a good enough
+I'm a good 
 
 ---
 
