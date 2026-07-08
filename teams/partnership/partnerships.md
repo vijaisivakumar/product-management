@@ -2,11 +2,7 @@
 
 ## About This Department
 
-The Restaurant Partnerships team is the bridge between Swiggy and its restaurant
-partners. This team handles onboarding new restaurants, managing ongoing relationships,
-negotiating commission structures, resolving partner grievances, and ensuring restaurants
-stay active and satisfied on the platform. A healthy partner ecosystem is what keeps the
-menu full for customers.
+I'm a good boy
 
 ---
 
